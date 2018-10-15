@@ -1,3 +1,3 @@
 # HELLO-WORLD
-My frist repository on github 
-I love drawing and tea.
+My frist repository on github .
+I love :pizza:.
